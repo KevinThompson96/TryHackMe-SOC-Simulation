@@ -69,6 +69,8 @@ Similar to the last alert, this is suspicious and likely a true positive. The se
 
 ![alert 4](Screenshots/alert-4.png)
 
+*Note: The timestamp is different in the screenshot as I had to re-run the simulation to get a screenshot*
+
 I checked the Splunk logs and filtered for the sender’s email or the external link to verify this incident was contained to a single user. 
 
 Index=* ("no-reply<!-- -->@m1crosoftsupport.co” OR "https<!-- -->://m1crosoftsupport.co/login")
