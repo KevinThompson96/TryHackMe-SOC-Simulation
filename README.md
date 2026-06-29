@@ -83,7 +83,7 @@ A concerning result. It looks like the recipient of the email, c.allen did click
 
 ## How I Can Improve:
 
-[results](Screenshots/results.png)
+![results](Screenshots/results.png)
 
 Overall, I correctly identified the true positives and the false positives from the alerts I triaged. 
 
